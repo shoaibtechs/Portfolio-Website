@@ -9,8 +9,8 @@ const myProjects = [
       "Engineering a high-performance, full-stack vacation marketplace featuring real-time property listings, dynamic booking workflows, and advanced search filters. Architecting scalable data models using MongoDB and Mongoose ODM to manage relational-like data structures efficiently.",
     image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80", // Yahan apni image URL lagayein
     tags: ["Node.js", "Express.js", "MongoDB", "Mongoose", "EJS", "Modern CSS", "Git"],
-    github: "https://github.com/shoaibtechs/Wanderlust",
-    webapp: "https://wanderlust-xyz.onrender.com",
+    github: "https://github.com/shoaibtechs/StayHub-Full-Stack-Vacation-Rental-Platform",
+    webapp: "#",
   },
   {
     id: 2,
