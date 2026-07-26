@@ -19,7 +19,7 @@ const myProjects = [
       "Developed a secure backend engine for an academic portal implementing strict server-side body validation using the Joi schema validation library. Built an enterprise-grade error handling architecture using a custom ExpressError utility class and wrapAsync middleware.",
     image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80", // Yahan apni image URL lagayein
     tags: ["Node.js", "Express.js", "Joi", "MongoDB", "Mongoose", "Async JS"],
-    github: "https://github.com/shoaibtechs/Admission-Portal-Validator",
+    github: "https://github.com/shoaibtechs/Express-Joi-Admission-Portal-Validator-",
     webapp: "#",
   },
   {
@@ -29,7 +29,7 @@ const myProjects = [
       "Architected a full-stack blogging platform using the MERN pattern with a strict focus on scalable RESTful API design. Implemented complete CRUD operational pipelines with high-performance MySQL database instances.",
     image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=800&q=80", // Yahan apni image URL lagayein
     tags: ["Node.js", "Express.js", "EJS", "MySQL", "UUID v4", "Method-Override", "CSS3"],
-    github: "https://github.com/shoaibtechs/Blogs-Sphere",
+    github: "https://github.com/shoaibtechs/Blogger_Sphere_API",
     webapp: "#",
   },
 ];
